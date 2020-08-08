@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 
 namespace BlazorApp
 {
-    public class Program
+    public class Program //Comment
     {
         public static void Main(string[] args)
         {
